@@ -1,0 +1,6 @@
+['DESCR', 'data', 'data_module', 'feature_names', 'filename', 'frame', 'target', 'target_names']
+['sepal length (cm)', 'sepal width (cm)', 'petal length (cm)', 'petal width (cm)']
+['setosa' 'versicolor' 'virginica']
+[[5.1 3.5 1.4 0.2]
+ [4.9 3.  1.4 0.2]]
+[0 0]
