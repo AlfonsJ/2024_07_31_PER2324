@@ -2,6 +2,11 @@
 
 ## Tema 2. Fundamentos teóricos
 
+El tema 2 de PER se basa en partes relevantes de los capítulos 2 a 8 de [PML1](https://probml.github.io/pml-book/book1.html). 
+La tabla siguiente muestra la correspondencia entre las secciones del tema 2 y las de PML1.
+Los directorios anteriores incluyen material suplementario del tema 2: código, figuras y aclaraciones que
+complementan las transpas de teoría y actividades disponibles en PoliFormaT.
+
  PER | PML1 | Título
 -----|------|------------------
  2.1 |  2.4 | Distribuciones Bernoulli y binomial
