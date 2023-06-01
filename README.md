@@ -1,5 +1,5 @@
 # Recursos de Percepción (PER)
-Material docente la asignatura Percepción (PER) del Grado en Ingeniería Informática de la UPV. Basado en extractos del libro de Kevin Murphy "Probabilistic Machine Learning: An Introduction" (PML). Temario:
+Material docente de la asignatura Percepción (PER) del Grado en Ingeniería Informática de la UPV. Basado en extractos del libro de Kevin Murphy "Probabilistic Machine Learning: An Introduction" (PML). Temario:
 
 1. Introducción (tema 1 de PML)
 2. Fundamentos teóricos (temas 2 a 8 de PML)
